@@ -1,0 +1,22 @@
+{
+  "name": "only-default",
+  "version": "1.0.0",
+  "description": "Return whitelisted properties of an object, with default value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Txiaozhe/node-only-default.git"
+  },
+  "keywords": [
+    "Object"
+  ],
+  "author": "Txiaozhe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Txiaozhe/node-only-default/issues"
+  },
+  "homepage": "https://github.com/Txiaozhe/node-only-default#readme"
+}
