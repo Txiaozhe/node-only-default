@@ -1,6 +1,6 @@
 {
   "name": "only-default",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return whitelisted properties of an object, with default value.",
   "main": "index.js",
   "scripts": {
