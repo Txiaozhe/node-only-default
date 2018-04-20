@@ -5,8 +5,7 @@
 
 module.exports = function(obj, rule){
   obj = obj || {};
-  keys = Object.keys(rule);
-  return keys.reduce(function(ret, key){
+  return Object.keys(rule).reduce(function(ret, key){
     ret[key] = obj[key] || rule[key];
     return ret;
   }, {});
