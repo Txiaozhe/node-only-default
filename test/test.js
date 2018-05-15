@@ -6,7 +6,7 @@
 const only = require('../index');
 
 const obj = {
-  name: 'aaa',
+  name: 0,
   age: '20'
 };
 
